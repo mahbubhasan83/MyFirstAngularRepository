@@ -62,7 +62,6 @@ F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutori
 F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutorial\bin\System.Web.WebPages.xml
 F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutorial\bin\System.Web.WebPages.Deployment.xml
 F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutorial\bin\System.Web.WebPages.Razor.xml
-F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutorial\obj\Debug\AngularTutorial.csprojResolveAssemblyReference.cache
 F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutorial\obj\Debug\AngularTutorial.Migrations.CreateTodoIndexes.resources
 F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutorial\obj\Debug\AngularTutorial.csproj.GenerateResource.Cache
 F:\Simplexhub\AngularJS_Tutorial\Tutorial\MyFirstAngularRepository\AngularTutorial\obj\Debug\AngularTutorial.dll
