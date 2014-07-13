@@ -571,9 +571,6 @@
     <Content Include="Views\shared\Details.cshtml" />
     <Content Include="Views\shared\Create.cshtml" />
     <Content Include="Views\shared\_validationSummary.cshtml" />
-    <Content Include="Views\shared\_BootstrapLayout.narrow.cshtml" />
-    <Content Include="Views\shared\_BootstrapLayout.empty.cshtml" />
-    <Content Include="Views\shared\_BootstrapLayout.basic.cshtml" />
     <Content Include="Views\shared\_alerts.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
   </ItemGroup>
