@@ -17,6 +17,12 @@ namespace AngularTutorial.Models
         {
         }
 
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            Database.SetInitializer(
+                new MigrateDatabaseToLatestVersion<AngularTutorialContext, Migrations.Configuration>());
+        }
+
         public DbSet<TodoItem> TodoItems { get; set; }
     }
 }
