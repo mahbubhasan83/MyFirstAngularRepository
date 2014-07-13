@@ -566,16 +566,10 @@
     <Content Include="Scripts\_references.js" />
     <Content Include="Views\Web.config" />
     <Content Include="Scripts\version.json" />
-    <Content Include="Views\shared\_html5shiv.cshtml" />
-    <Content Include="Views\shared\Index.cshtml" />
-    <Content Include="Views\shared\Details.cshtml" />
-    <Content Include="Views\shared\Create.cshtml" />
-    <Content Include="Views\shared\_validationSummary.cshtml" />
-    <Content Include="Views\shared\_alerts.cshtml" />
-    <Content Include="Views\_ViewStart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\shared\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
